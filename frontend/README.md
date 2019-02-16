@@ -1,6 +1,6 @@
 # frontend
 
-> frontend demo for Y Soft
+> frontend demo for coder
 
 ## Build Setup
 
