@@ -23,6 +23,7 @@ Frontend
 _______________
 
 Written in Vue.js (npm webpack). Very simplistic look, mostly as proof of concept.
+After clone you need to run "npm install" in frontend directory to inicialize project.
 
 Communicates with full path (requests are http://localhost...) for easier debugging. Should be replaced in release with relative paths.
 
